@@ -144,7 +144,7 @@
         }
     ],
     "Ionburst": {
-        "Profile": "send",
+        "Profile": "default",
         "IonburstUri": "https://api.eu-west-1.ionburst.cloud/",
         "TraceCredentialsFile": "OFF"
     }
